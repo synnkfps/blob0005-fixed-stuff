@@ -5,10 +5,10 @@ i can't judge blob0005, hes a kid / hes learning python, he does good stuff but 
 
 things that i noticed:
 - he uses code template, all of his codes includes:
-- - try to import modules
-- - colorama
-- - a list with all the alphabet one per one
-- - while loops that runs forever
+  - try to import modules
+  - colorama
+  - a list with all the alphabet one per one
+  - while loops that runs forever
 - their looping techniques are terribly done
 - -70% optimizated code (runs slower)
 - All Of His English Words Are Capitalized
